@@ -1,0 +1,14 @@
+C:\Users\Muhammad Irvan Akbar\source\repos\A_1012_Tugas1\A_1012_Tugas1\bin\Debug\net8.0\A_1012_Tugas1.exe
+C:\Users\Muhammad Irvan Akbar\source\repos\A_1012_Tugas1\A_1012_Tugas1\bin\Debug\net8.0\A_1012_Tugas1.deps.json
+C:\Users\Muhammad Irvan Akbar\source\repos\A_1012_Tugas1\A_1012_Tugas1\bin\Debug\net8.0\A_1012_Tugas1.runtimeconfig.json
+C:\Users\Muhammad Irvan Akbar\source\repos\A_1012_Tugas1\A_1012_Tugas1\bin\Debug\net8.0\A_1012_Tugas1.dll
+C:\Users\Muhammad Irvan Akbar\source\repos\A_1012_Tugas1\A_1012_Tugas1\bin\Debug\net8.0\A_1012_Tugas1.pdb
+C:\Users\Muhammad Irvan Akbar\source\repos\A_1012_Tugas1\A_1012_Tugas1\obj\Debug\net8.0\A_1012_Tugas1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Irvan Akbar\source\repos\A_1012_Tugas1\A_1012_Tugas1\obj\Debug\net8.0\A_1012_Tugas1.AssemblyInfoInputs.cache
+C:\Users\Muhammad Irvan Akbar\source\repos\A_1012_Tugas1\A_1012_Tugas1\obj\Debug\net8.0\A_1012_Tugas1.AssemblyInfo.cs
+C:\Users\Muhammad Irvan Akbar\source\repos\A_1012_Tugas1\A_1012_Tugas1\obj\Debug\net8.0\A_1012_Tugas1.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Irvan Akbar\source\repos\A_1012_Tugas1\A_1012_Tugas1\obj\Debug\net8.0\A_1012_Tugas1.dll
+C:\Users\Muhammad Irvan Akbar\source\repos\A_1012_Tugas1\A_1012_Tugas1\obj\Debug\net8.0\refint\A_1012_Tugas1.dll
+C:\Users\Muhammad Irvan Akbar\source\repos\A_1012_Tugas1\A_1012_Tugas1\obj\Debug\net8.0\A_1012_Tugas1.pdb
+C:\Users\Muhammad Irvan Akbar\source\repos\A_1012_Tugas1\A_1012_Tugas1\obj\Debug\net8.0\A_1012_Tugas1.genruntimeconfig.cache
+C:\Users\Muhammad Irvan Akbar\source\repos\A_1012_Tugas1\A_1012_Tugas1\obj\Debug\net8.0\ref\A_1012_Tugas1.dll
