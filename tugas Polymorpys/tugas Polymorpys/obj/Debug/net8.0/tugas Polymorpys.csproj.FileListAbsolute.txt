@@ -1,0 +1,14 @@
+C:\Users\Muhammad Irvan Akbar\Documents\tugas Polymorpys\tugas Polymorpys\bin\Debug\net8.0\tugas Polymorpys.exe
+C:\Users\Muhammad Irvan Akbar\Documents\tugas Polymorpys\tugas Polymorpys\bin\Debug\net8.0\tugas Polymorpys.deps.json
+C:\Users\Muhammad Irvan Akbar\Documents\tugas Polymorpys\tugas Polymorpys\bin\Debug\net8.0\tugas Polymorpys.runtimeconfig.json
+C:\Users\Muhammad Irvan Akbar\Documents\tugas Polymorpys\tugas Polymorpys\bin\Debug\net8.0\tugas Polymorpys.dll
+C:\Users\Muhammad Irvan Akbar\Documents\tugas Polymorpys\tugas Polymorpys\bin\Debug\net8.0\tugas Polymorpys.pdb
+C:\Users\Muhammad Irvan Akbar\Documents\tugas Polymorpys\tugas Polymorpys\obj\Debug\net8.0\tugas Polymorpys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Irvan Akbar\Documents\tugas Polymorpys\tugas Polymorpys\obj\Debug\net8.0\tugas Polymorpys.AssemblyInfoInputs.cache
+C:\Users\Muhammad Irvan Akbar\Documents\tugas Polymorpys\tugas Polymorpys\obj\Debug\net8.0\tugas Polymorpys.AssemblyInfo.cs
+C:\Users\Muhammad Irvan Akbar\Documents\tugas Polymorpys\tugas Polymorpys\obj\Debug\net8.0\tugas Polymorpys.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Irvan Akbar\Documents\tugas Polymorpys\tugas Polymorpys\obj\Debug\net8.0\tugas Polymorpys.dll
+C:\Users\Muhammad Irvan Akbar\Documents\tugas Polymorpys\tugas Polymorpys\obj\Debug\net8.0\refint\tugas Polymorpys.dll
+C:\Users\Muhammad Irvan Akbar\Documents\tugas Polymorpys\tugas Polymorpys\obj\Debug\net8.0\tugas Polymorpys.pdb
+C:\Users\Muhammad Irvan Akbar\Documents\tugas Polymorpys\tugas Polymorpys\obj\Debug\net8.0\tugas Polymorpys.genruntimeconfig.cache
+C:\Users\Muhammad Irvan Akbar\Documents\tugas Polymorpys\tugas Polymorpys\obj\Debug\net8.0\ref\tugas Polymorpys.dll
